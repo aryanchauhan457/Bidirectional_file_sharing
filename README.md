@@ -1,5 +1,3 @@
-Here’s a **clean, beautiful, and easy-to-understand README.md** for your project:
-
 ---
 
 # 📂 Bidirectional File Sharing over WiFi
