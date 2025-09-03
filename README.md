@@ -1,5 +1,3 @@
----
-
 # 📂 Bidirectional File Sharing over WiFi
 
 A simple **Flask-based web app** that allows you to **share files bidirectionally** (upload & download) over the same WiFi network.
